@@ -10,3 +10,9 @@ go run *.go
 
 ### Command to run unit test case
 go test
+
+### Assumption for this program
+Grid = 2D Array
+Dead State = 0
+Live State = 1
+
