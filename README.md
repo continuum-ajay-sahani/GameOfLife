@@ -12,7 +12,7 @@ go run *.go
 go test
 
 ### Assumption for this program
-Grid = 2D Array
-Dead State = 0
-Live State = 1
+#### Grid = 2D Array
+#### Dead State = 0
+#### Live State = 1
 
